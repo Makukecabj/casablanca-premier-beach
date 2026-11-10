@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casablanca-premier-beach.vercel.app/sitemap.xml
